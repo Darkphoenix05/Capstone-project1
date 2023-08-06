@@ -1,0 +1,227 @@
+.a{
+	height:1300px;
+	width: 100%;
+	border: 5px solid gray;	
+}
+.a1{
+	background-image: url('../images/nature1.jpg');
+	height:600px;
+	width: 100%;
+	border: 5px solid gray;
+}
+h1{
+	color: white;
+	text-align: 300px;
+	font-style: italic;
+	font-size: 100px;
+}
+.a2{
+	background-image: url('../images/nature4.jpg');
+	height:700px;
+	width: 100%;
+	border: 5px solid gray;
+}
+.a21{
+    height: 500px;
+	width: 300px;
+	background-color: yellow;
+    border-bottom-left-radius: 300px;
+    border-top-left-radius: 300px;
+    padding: 30px;
+    margin-left: 500px;
+    margin-top: 75px;
+    float: left;
+    font-size: 75px;
+	color: white;
+}
+
+.a22{
+    height: 450px;
+	width: 500px;
+	background-color: white;
+    float: left;
+	margin-left: 150px;
+	margin-botttom: 400px;
+	color: black;
+	margin-top: 75px;
+	color: white;
+	background-color: transparent;
+}
+.b{
+	height:1500px;
+	width: 100%;
+	border: 5px solid gray;
+	color: white;	
+}
+.b1{
+	background-image: url('../images/nature3.jpg');
+	height:600px;
+	width: 100%;
+	border: 5px solid gray;
+	background-size: cover;
+}
+.b2{
+	height:400px;
+	width: 400px;
+	border: 3px solid gray;
+	background-image: url('../images/nature5.jpg');
+	float: left;
+	margin: 20px;
+	margin-top: 30px;
+	margin-left: 250px;
+}
+.b3{
+	height:400px;
+	width: 400px;
+	border: 3px solid gray;
+	background-image: url('../images/nature6.jpg');
+	float: left;
+	margin: 20px;
+	margin-top: 30px;
+	margin-left: 160px;
+	color: black;
+}
+
+.b4{
+	height:400px;
+	width: 400px;
+	border: 3px solid gray;
+	background-image: url('../images/nature8.jpg');
+	float: left;
+	margin: 20px;
+	margin-top: 30px;
+	margin-left: 170px;
+	color: black;
+}
+.b5{
+	height: 200px;
+	width: 100%;
+	border: 5px solid gray;
+	background-color: beige;
+}
+.b51{
+	height: 200px;
+	width: 600px;
+	border: 5px solid beige;
+	float: left;
+	margin-left: 50px;
+	color: black;
+	font-size: 50px;
+}	
+.b52{
+	height: 200px;
+	width: 900px;
+	border: 5px solid beige;
+	float: left;
+	margin-left: 150px;
+	color: black;
+	font-size: 20px;
+	padding-top: 5px;
+	text-align: justify;
+}
+.c{
+	background-image: url('../images/nature7.jpg');
+	height:700px;
+	width: 100%;
+	border: 5px solid gray;
+}
+.c1{
+    height: 500px;
+	width: 500px;
+	background-image: url('../images/nature10.png');
+	color: white;
+	margin-left: 300px;
+	margin-top: 75px;
+	font-size: 40px;
+	text-align-last: unset;
+	float: left;
+	border: 3px solid gray;
+}
+.c2{
+    height: 500px;
+	width: 700px;
+	background-color: white;
+	float: left;
+	margin-left: 90px;
+    margin-top: 75px;
+    background-color: transparent;
+    font-size: 20px
+}
+.d{
+    height: 700px;
+	width: 100%;
+	background-color: black;
+	border: 5px solid gray;
+}
+.d1{
+    height: 450px;
+	width: 500px;
+    float: left;
+	margin-left: 250px;
+	margin-botttom: 400px;
+	color: black;
+	margin-top: 100px;
+	color: white;
+	font-size: 20px;
+
+} 
+.d2{
+    height: 500px;
+	width: 300px;
+	background-color: yellow;
+    border-top-right-radius: 300px;
+    border-bottom-right-radius: 300px;
+    padding: 30px;
+    margin-left: 100px;
+    margin-top: 75px;
+    float: left;
+    font-size: 75px;
+	color: blue;
+	padding: 20px;
+} 
+.d3{background-image: url('../images/nature9.jpg');
+	height:400px;
+	width: 500px;
+	border: 3px solid gray;
+	float: left;
+	margin-left: 250px;
+	margin-top: 75px;
+
+}  
+.e{
+	background-image: url('../images/nature7.jpg');
+	height:600px;
+	width: 100%;
+	border: 5px solid gray;
+
+}
+.e1{
+	height:400px;
+	width: 500px;
+	margin-left: 250px;
+	margin-top: 100px;
+	padding-left: 200px;
+	float: left;
+}
+.e2{
+    height: 500px;
+	width: 600px;
+	background color: blue;
+    float: left;
+    background-color: transparent;
+    margin-top: 100px;
+    color: white;
+    font-size: 30px;
+    padding-top: 90px;
+    margin-left: 300px;
+}
+h2{
+	color: white;
+	text-align: 300px;
+	font-style: italic;
+	font-size: 70px;
+}
+button{ 
+	height: 50px;
+	width: 90px;
+ }
